@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: blue;
+  height: 10vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+footer {
+  background-color: aqua;
+  height: 10vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-style: inherit;
+}
+.s1 {
+  width: 50%;
+  height: 40vh;
+  background-color: aquamarine;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.s2 {
+  background-color: darkgoldenrod;
+
+  height: 20vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.s3 {
+  background-color: forestgreen;
+
+  height: 20vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.s4 {
+  width: 50%;
+  height: 40vh;
+  background-color: rgb(33, 36, 62);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.s5 {
+  background-color: blueviolet;
+
+  height: 20vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.s6 {
+  background-color: darkgray;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 20vh;
+}
+
+.gora {
+  display: flex;
+}
+.dol {
+  display: flex;
+}
+.wew1 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.wew2 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 40vh;
+}
